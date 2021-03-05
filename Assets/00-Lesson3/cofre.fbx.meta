@@ -3,7 +3,27 @@ guid: d6c03ab3231f502499b4eda5ee6a546a
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CofreBase
+    second: {fileID: 2100000, guid: 7a10b857008d759408aacfac6371a3d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CofreTapa
+    second: {fileID: 2100000, guid: 29c023a5bfb23e9468c99e57e421c2cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaterialEstrella
+    second: {fileID: 2100000, guid: 5f2ef03aa89606c40a93dfba0c7ccc34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ojos
+    second: {fileID: 2100000, guid: be2b5743da969804d9bba81560a005e7, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
